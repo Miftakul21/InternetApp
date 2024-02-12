@@ -16,7 +16,7 @@ Untuk admin username: 004 password: admin123 Untuk Sales username: 002 password:
 
 ## Database
 
-File record database ada di folder (public/database)
+**File record database ada di folder (public/database)**
 
 ## Teknologi Stack
 
